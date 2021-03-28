@@ -1,0 +1,199 @@
+@media (max-width:1400px){
+    .about-img-tex {
+        
+        right: 17px;
+       
+    }
+
+    .fiters-item::before {
+         
+        left: 14px;
+       
+        height: 57%;
+      
+    }
+    .frm-btn .fbtn::after {
+        left: 233px;
+    }
+}
+@media (max-width:1200px){
+    .about-img img {
+        width: 402px;
+     }
+     .about-img-tex {
+        right: -4px;
+    
+    }
+
+    .fiters-item::before {
+       
+        left: 12px;
+       
+        height: 52%;
+      
+    }
+    .frm-btn .fbtn::after{
+        left: 188px;
+    }
+    .contact-right a {
+     
+        font-size: 29px;
+      
+    }
+    .busness-content h2 {
+        font-size: 30px;
+     
+    }
+}
+@media(max-width:992px){
+    .about-img-tex {
+        right: 216px;
+    }
+    .fiters-item::before {
+        left: 36px;
+        height: 68%;
+    }
+
+    .slider-content p {
+       
+        margin: auto;
+    }
+    /* .frm-btn .fbtn::after {
+        left: 306px;
+    } */
+    .calculet-rate {
+        color: white;
+        background-color: #07a598;
+        margin-top: 32px;
+    }
+    .fiters-item::before {
+        left: 10px;
+        height: 52%;
+    }
+
+    .fiters-item { 
+        padding: 2px;
+       
+    }
+    .fiters-item.text-center p {
+        font-size: 12px;
+    }
+    .fiters-item {
+        padding: 16px;
+    }
+    /* .finix-tex h2 { 
+        width: 494px;
+       
+    } */
+     
+    .about-img img {
+        width: 264px;
+    }
+    /* .finix-tex h2 {
+        width: 351px;
+    } */
+    .frm-btn .fbtn::after {
+        left: 128px;
+    }
+    .valu-text p {
+        font-size: 12px;
+    }
+    .valu-text h3 {
+        font-size: 12px;
+    }
+    .our-comphany h2 {
+        font-size: 25px; 
+    }
+    .our-com-content i { 
+        font-size: 23px; 
+    }
+    img { 
+        width: 100%;
+    }
+    .clint-logo ul { 
+        flex-direction: column;
+    }
+    .clint-logo ul li { 
+        margin: 40px 0;
+    }
+
+    .about-img img {
+        width: 74%;
+    }
+    .finix-tex h6 { 
+        margin-top: 51px;
+    }
+    .sld-img a { 
+        margin-top: 30%;
+        margin-left: 21%;
+    }
+    .stef-time-line ul::before { 
+        height: calc(93% - 86px); 
+    }
+}
+@media(max-width:768px){
+    .about-img-tex {
+        right: 41px;
+    }
+    .frm-btn .fbtn::after {
+        left: 216px;
+    } 
+    .about-img-tex {
+        right: -30px;
+    }
+    .fiters-item h3 {
+        font-size: 17px;
+    }
+    .frm-btn .fbtn::after {
+        left: 216px;
+        top: 49%;
+    }
+    body .a-btn { 
+        font-size: 14px;
+       
+    }
+    .busness-content h2 {
+        font-size: 24px;
+    }
+    .servic-tab-content p {
+        font-size: 12px;
+    }
+    .servic-tab-content h4 {
+        font-size: 17px;
+    }
+    .servic-tab-content ul li { 
+        font-size: 15px;
+    }
+    .finix-tex h2 { 
+        width: 598px; 
+    }
+    .fiters-item::before {
+        left: 13px;
+        height: 69%;
+    }
+    .sld-img a {
+        margin-top: 16%;
+        margin-left: 12%;
+    }
+    .stef-time-line ul::before {
+        height: calc(90% - 110px) !important;
+    }
+}
+@media(max-width:576){
+    .frm-btn .fbtn::after {
+        left: 230px;
+    }
+    .stef-time-line ul::before {
+        height: calc(100% - 195px) !important;
+    }
+}
+@media(max-width:440px){
+    .fiters-item::before {
+
+        left: 22px;
+        height: 62%;
+    }
+    .frm-btn .fbtn::after {
+        left: 160px;
+    }
+}
